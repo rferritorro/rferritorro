@@ -1,4 +1,5 @@
 Welcome to my github, my name is Rafa and im a developer web. Sincerely, I not an expert in all lenguages that I have written in my profile but I have tried schedule code or I have done some program with every of them.
+I prefer to schedule backend code because its more easy than frontend code for me and I enjoy doing code while I'm working with API REST/WEB. 
 
 💾 Databases
 
