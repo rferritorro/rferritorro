@@ -1,4 +1,4 @@
-<h1>Welcome to my github</h1><h2> My name is Rafa Ferri</h2>
+Welcome to my github, my name is Rafa and im a developer web. Sincerely, I not an expert in all lenguages that I have written in my profile but I have tried schedule code or I have done some program with every of them.
 
 💾 Databases
 
