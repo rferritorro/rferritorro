@@ -1,5 +1,4 @@
-Welcome to my github, my name is Rafa and im a developer web. Sincerely, I not an expert in all lenguages that I have written in my profile but I have tried schedule code or I have done some program with every of them.
-I prefer to schedule backend code because its more easy than frontend code for me and I enjoy doing code while I'm working with API REST/WEB. 
+Welcome to my github, I'm a IA & Big Data specialist with web developer and odoo knowledge. Some day I would like to be an expert in IA because its a huge unkwon world for me which suprises me every day. 
 
 💾 Databases
 
